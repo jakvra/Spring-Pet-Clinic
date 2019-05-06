@@ -33,7 +33,7 @@
 	</build>
 
 <modules>
-	<module>Sprint-Pet-Data</module>
+	<module>Spring-Pet-Data</module>
 	<module>Pet-Clinic-Web</module>
 </modules>
 </project>

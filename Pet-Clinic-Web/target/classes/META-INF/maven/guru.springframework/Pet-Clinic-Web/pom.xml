@@ -11,7 +11,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>guru.springframework</groupId>
-			<artifactId>Sprint-Pet-Data</artifactId>
+			<artifactId>Spring-Pet-Data</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
